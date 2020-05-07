@@ -1,3 +1,3 @@
 # not-really-private
 
-Password: hunter2
+Password: *******
